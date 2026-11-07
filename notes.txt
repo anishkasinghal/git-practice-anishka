@@ -1,3 +1,4 @@
 I am learning Git and GitHub.
 Git tracks changes in my files.
 Each commit saves a Checkpoint.
+This line was added on a feature branch.
