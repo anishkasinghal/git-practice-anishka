@@ -2,3 +2,4 @@ Git helps track project history and Git makes teamwork easier.
 Git tracks changes in my files.
 Each commit saves a Checkpoint.
 This line was added on a feature branch.
+This was fun.
